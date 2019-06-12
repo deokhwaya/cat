@@ -1,3 +1,2 @@
-for i in range(5):
-    print('Slave Python File: fastcampus.py')
-
+for i in range(10):
+    print(i)
